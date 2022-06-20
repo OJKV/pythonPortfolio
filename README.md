@@ -1,5 +1,5 @@
 # pythonPortfolio
 
-Учебное веб-приложение, "Portfolio" - страница с информацией о вымышленном разработчике,  
-с описанием его работ, ссылками на LinkedIn и другие соцсети. Также присутствует   
-Написано на Django
+Sample web application, "Portfolio" - fictitious developer information page,
+with a description of his work, links to LinkedIn and other social networks. Also present
+Written in Django
